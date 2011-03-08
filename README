@@ -12,7 +12,7 @@ That will install EnvJasmine.
 == Usage
 To run your Jasmine tests, just run:
 
-    rake test
+    rake
 
 == More Information
 For more information on EnvJasmine, check out https://github.com/trevmex/EnvJasmine
