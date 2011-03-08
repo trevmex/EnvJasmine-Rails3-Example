@@ -1,0 +1,31 @@
+= EnvJasmine Rails 3 Example
+
+This is an example Ruby on Rails 3 app that uses EnvJasmine to test JavaScript. You can use it as a basis for your own app.
+
+== Installation
+Once you get the repo execute the following:
+
+    ./updateEnvJasmine.sh
+    
+That will install EnvJasmine.
+
+== Usage
+To run your Jasmine tests, just run:
+
+    rake test
+
+== More Information
+For more information on EnvJasmine, check out https://github.com/trevmex/EnvJasmine
+
+----
+
+Originally created by Trevor Lalish-Menagh
+See LICENSE for lincensing information.
+
+----
+
+See CHANGELOG for changelog information.
+
+----
+
+Current version is found in the VERSION file.
