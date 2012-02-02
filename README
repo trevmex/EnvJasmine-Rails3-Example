@@ -6,13 +6,17 @@ This is an example Ruby on Rails 3 app that uses EnvJasmine to test JavaScript. 
 Once you get the repo execute the following:
 
     ./updateEnvJasmine.sh
-    
+
 That will install EnvJasmine.
 
 == Usage
 To run your Jasmine tests, just run:
 
     rake
+
+If rake doesn't work, try using bundle exec:
+
+    bundle exec rake
 
 == More Information
 For more information on EnvJasmine, check out https://github.com/trevmex/EnvJasmine
