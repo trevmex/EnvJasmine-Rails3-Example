@@ -66,6 +66,7 @@ GEM
     tzinfo (0.3.24)
 
 PLATFORMS
+  java
   ruby
 
 DEPENDENCIES
